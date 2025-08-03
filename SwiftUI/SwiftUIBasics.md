@@ -51,7 +51,7 @@ struct LoginForm {
 }
 '''
 
-## FORM View
+## Form View
 - To build data entry interface (settings etc)
 - behave as per platform specific
 - add section inside Form to group together with different titles
