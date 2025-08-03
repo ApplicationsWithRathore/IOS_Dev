@@ -5,9 +5,9 @@
 
 ## State manage property
 ### @State
-- @State property wrapper allow us to modify value inside struct, which would normally not be allowed because struct are value types.
+- `@State` property wrapper allow us to modify value inside struct, which would normally not be allowed because struct are value types.
 - It move the storage out from struct to the shared storage of Swift UI { destroy and recreate struct whenever needed}
-- @State should be use only with basic type (String, Int) and generally should not be shared with other view.
+- `@State` should be use only with basic type (String, Int) and generally should not be shared with other view.
 ### @FocusState
 - it is helping to know the focused view eg Textfield 
 ```swift
