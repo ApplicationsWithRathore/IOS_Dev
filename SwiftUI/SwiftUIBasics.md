@@ -1,6 +1,6 @@
 # TOPICS 
 1. [@State , @FocusedStare, @Bindingd](#state-manage-property)
-2. [Form] (#form)
+2. [Form] (#form-view)
 
 
 ## State manage property
@@ -51,7 +51,7 @@ struct LoginForm {
 }
 '''
 
-## FORM
+## FORM View
 - To build data entry interface (settings etc)
 - behave as per platform specific
 - add section inside Form to group together with different titles
