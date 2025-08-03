@@ -1,8 +1,3 @@
-# TOPICS 
-1. [@State , @FocusedStare, @Bindingd](#state-manage-property)
-2. [Form](#form-view)
-
-
 ## State manage property
 ### @State
 - `@State` property wrapper allow us to modify value inside struct, which would normally not be allowed because struct are value types.
